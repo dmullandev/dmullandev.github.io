@@ -1,2 +1,2 @@
-# dmullrod.github.io
-A short, digital to-be foot print of mine
+# dmullandev.github.io
+Quicklinks info + CV + portfolio
