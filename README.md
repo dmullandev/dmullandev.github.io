@@ -1,2 +1,2 @@
 # dmullandev.github.io
-Quicklinks info + CV + portfolio
+Quicklinks info + CV + portfolio 
